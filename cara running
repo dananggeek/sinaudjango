@@ -3,3 +3,7 @@ ini saya  runging di linux
 2.masuk ke direktory mini_hrd
 3.python manage.py runserver
 kalau eror python3 manage.py runserver
+
+login ke http://127.0.0.1:8000/admin/
+username : dananggeek
+password:terserahkamu1
