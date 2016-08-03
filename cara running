@@ -1,0 +1,5 @@
+ini saya  runging di linux
+1.install django
+2.masuk ke direktory mini_hrd
+3.python manage.py runserver
+kalau eror python3 manage.py runserver
